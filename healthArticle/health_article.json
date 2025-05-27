@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Beneficios de una alimentación saludable",
+        "description": "Descubre cómo una dieta equilibrada puede mejorar tu bienestar físico y mental.",
+        "ways_to_achieve": [
+            "Consumir más frutas y verduras",
+            "Reducir el consumo de azúcar y grasas saturadas",
+            "Mantener una hidratación adecuada"
+        ],
+        "benefits": [
+            "Mejora la salud cardiovascular",
+            "Aumenta la energía y el rendimiento",
+            "Refuerza el sistema inmunológico"
+        ]
+    },
+    {
+        "title": "Ejercicio y bienestar mental",
+        "description": "Explora cómo la actividad física puede mejorar tu estado de ánimo y reducir el estrés.",
+        "ways_to_achieve": [
+            "Realizar ejercicio al menos 30 minutos al día",
+            "Practicar yoga o meditación",
+            "Salir a caminar regularmente"
+        ],
+        "benefits": [
+            "Reduce los niveles de estrés",
+            "Aumenta la producción de endorfinas",
+            "Mejora la calidad del sueño"
+        ]
+    }
+]
